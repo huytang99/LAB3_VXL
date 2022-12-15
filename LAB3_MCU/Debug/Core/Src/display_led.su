@@ -1,0 +1,6 @@
+../Core/Src/display_led.c:12:6:display7SEG	16	static
+../Core/Src/display_led.c:106:6:display7SEG_2	16	static
+../Core/Src/display_led.c:201:6:update7SEG	16	static
+../Core/Src/display_led.c:219:6:update7SEG_2	16	static
+../Core/Src/display_led.c:237:6:addTime	16	static
+../Core/Src/display_led.c:241:6:addTime_2	16	static
